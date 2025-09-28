@@ -1,0 +1,5 @@
+aiogram
+aiosqlite
+# Render ga botni ishlashga yordam beruvchi kutubxona
+# Render dagi bepul xizmat uchun zarur
+schedule
