@@ -9,7 +9,7 @@ import aiosqlite
 import datetime
 
 # Bot tokeningizni kiriting
-TOKEN = "7551221064:AAHolSxy_w6z8dkINlRCl8Dva77A0up6vzs"
+TOKEN = "token"
 
 # Bot ishga tushgan vaqtni saqlash uchun global o'zgaruvchi
 start_time = None
@@ -137,4 +137,5 @@ async def main():
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
+
     asyncio.run(main())
